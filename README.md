@@ -4,17 +4,17 @@
 This is a menu driven To-Do-List system writen in C which involves applications like add,view,complete and display tasks.
 
 ## Features 
--Add a new task.
--mark the task complete.
--view all tasks.
--delete the task.
--Menu-driven interface.
+- Add a new task.
+- Mark the task complete.
+- View all tasks.
+- Delete the task.
+- Menu-driven interface.
 
 ## Technologies used
--C-language
--Arrays.
--Structures.
--Functions.
+- C-language
+- Arrays.
+- Structures.
+- Functions.
 
 ## How to Run
 1. Compile the program.
